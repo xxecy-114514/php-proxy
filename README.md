@@ -1,7 +1,7 @@
 
 # Reverse proxies for PHP
 
-***Helps you to access websites from other ip in your browser***
+***Helps you access websites through other ip***
 
 # Screenshots
 
