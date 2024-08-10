@@ -13,9 +13,9 @@
 ai, Gemini)***
 
 # Advantage
-1.Can be quickly deployed on PHP hosts
-2.You can modify the reverse proxy URL at any time
-3.UserAgent can be modified at any time
+1. Can be quickly deployed on PHP hosts
+2. You can modify the reverse proxy URL at any time
+3. UserAgent can be modified at any time
 
 
 # Screenshots
