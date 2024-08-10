@@ -12,6 +12,12 @@
 ***Help you use other IP reverse proxy websites or AI vendors' APIs (Open
 ai, Gemini)***
 
+# Advantage
+1.Can be quickly deployed on PHP hosts
+2.You can modify the reverse proxy URL at any time
+3.UserAgent can be modified at any time
+
+
 # Screenshots
 
 ![gemini|690x338](https://linux.do/uploads/default/original/3X/e/d/edda7d52949f33f106f4a60ca6da50d0f3b97afc.png)
