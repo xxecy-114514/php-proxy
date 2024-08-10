@@ -3,8 +3,7 @@ $requestUri = $_SERVER['REQUEST_URI'];
 $parsedUrl = parse_url($requestUri);
 $path = $parsedUrl['path'];
 $query = isset($parsedUrl['query']) ? '?' . $parsedUrl['query'] : '';
-$lastPart = basename($path) . $query;
-$url1 = "https://example.com/" . $lastPart;
+$url1 = "https://example.com" . $path . $query;
 
 $ch = curl_init();
 
