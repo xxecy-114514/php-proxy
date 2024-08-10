@@ -30,3 +30,4 @@ Please change the reverse proxy url in index.php
 Not supported on subdirectories
 
 All parameters can be supported (https://example.com/example?example=example)
+
