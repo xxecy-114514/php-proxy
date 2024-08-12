@@ -9,8 +9,7 @@
 
 # Reverse proxies for PHP
 
-***Help you use other IP reverse proxy websites or AI vendors' APIs (Open
-ai, Gemini)***
+***Help you use other IP reverse proxy websites***
 
 # Advantage
 1. Can be quickly deployed on PHP hosts
@@ -20,12 +19,7 @@ ai, Gemini)***
 
 # Screenshots
 
-![gemini|690x338](https://linux.do/uploads/default/original/3X/e/d/edda7d52949f33f106f4a60ca6da50d0f3b97afc.png)
-
 ![website|690x371](https://linux.do/uploads/default/optimized/3X/7/3/73db97ada67d8f5e3cf12a193ee0aa3ea5defb03_2_690x371.png)
-
-![openai|690x370](https://linux.do/uploads/default/original/3X/3/e/3e37b167670aed2b055930c0ecca12ec32fe23a2.png)
-
 
 # Operating environment
 
