@@ -2,6 +2,7 @@ RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-RewriteEngine On
-RewriteRule ^(.*)$ index.php [L]
+RewriteCond %{REQUEST_URI} ^/proxy\.php$ [NC]
+RewriteRule ^ - [L]
 
+RewriteRule ^(.*)$ index.php [L]
