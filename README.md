@@ -19,7 +19,11 @@
 
 # Screenshots
 
-![website|690x371](https://linux.do/uploads/default/optimized/3X/7/3/73db97ada67d8f5e3cf12a193ee0aa3ea5defb03_2_690x371.png)
+![github|690x371](https://github.com/xxecy-114514/php-proxy/blob/main/image/github.png?raw=true)
+
+![download|690x371](https://github.com/xxecy-114514/php-proxy/blob/main/image/download.png?raw=true)
+
+![google|690x371](https://github.com/xxecy-114514/php-proxy/blob/main/image/google.png?raw=true)
 
 # Operating environment
 
